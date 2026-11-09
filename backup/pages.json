@@ -1,0 +1,3032 @@
+[
+  {
+    "id": 1517,
+    "date": "2019-08-17T23:13:19",
+    "date_gmt": "2019-08-17T23:13:19",
+    "guid": {
+      "rendered": "https://6B0B9FDE-8D2A-418D-8C44-FFB2F1AD4047"
+    },
+    "modified": "2019-08-17T23:13:19",
+    "modified_gmt": "2019-08-17T23:13:19",
+    "slug": "recommendations",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.benmorristech.com/recommendations/",
+    "title": {
+      "rendered": "Recommendations"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 3,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/1517"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/users/3"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/comments?post=1517"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/1517/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/media?parent=1517"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1398,
+    "date": "2017-12-14T18:54:38",
+    "date_gmt": "2017-12-14T18:54:38",
+    "guid": {
+      "rendered": "https://benmorristech.com/?page_id=1398"
+    },
+    "modified": "2017-12-14T18:54:38",
+    "modified_gmt": "2017-12-14T18:54:38",
+    "slug": "videos",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.benmorristech.com/videos/",
+    "title": {
+      "rendered": "VIDEOS"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 3,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/1398"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/users/3"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/comments?post=1398"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/1398/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/media?parent=1398"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1390,
+    "date": "2017-12-12T19:17:04",
+    "date_gmt": "2017-12-12T19:17:04",
+    "guid": {
+      "rendered": "http://benmorristech.com/?page_id=1390"
+    },
+    "modified": "2017-12-12T19:17:43",
+    "modified_gmt": "2017-12-12T19:17:43",
+    "slug": "donate",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.benmorristech.com/donate/",
+    "title": {
+      "rendered": "Thank you. Help Support Through Donation."
+    },
+    "content": {
+      "rendered": "<p>Hi. Thank you for visiting. </p>\n<p>If you\u2019re here, you\u2019ve probably seen some of my work already.</p>\n<p>The best way to support me is by with a monthly recurring donation as a patron. Monthly donations, even as little as $1, from hundreds of patrons provide me a stable monthly income that gives me the financial security to focus on my community work and not on chasing commercial conferences</p>\n<p>While a monthly recurring donation is the best way to support me, I also accept donations in bitcoin or other crypto-currencies.</p>\n<p>I will use these donations in a variety of ways including:</p>\n<p>To give bitcoin to new users, helping them experience the currency<br />\nTo pay for travel and accommodation for conferences and meetups<br />\nTo contribute to open source bitcoin projects that support the community<br />\nPlease send your donations to:</p>\n<p>Donation QR Code</p>\n<p><img loading=\"lazy\" src=\"http://52.12.181.38/wp-content/uploads/2017/12/QR-BlockchainInfo-Code.png\" alt=\"\" width=\"506\" height=\"300\" class=\"aligncenter size-full wp-image-1391\" srcset=\"https://wordpress-benmorris-assets.s3.amazonaws.com/wp-content/uploads/2017/12/12191515/QR-BlockchainInfo-Code.png 506w, https://wordpress-benmorris-assets.s3.amazonaws.com/wp-content/uploads/2017/12/12191515/QR-BlockchainInfo-Code-400x237.png 400w, https://wordpress-benmorris-assets.s3.amazonaws.com/wp-content/uploads/2017/12/12191515/QR-BlockchainInfo-Code-300x178.png 300w, https://wordpress-benmorris-assets.s3.amazonaws.com/wp-content/uploads/2017/12/12191515/QR-BlockchainInfo-Code-100x59.png 100w\" sizes=\"(max-width: 506px) 100vw, 506px\" /></p>\n<p>16Reiqqe7e1k5PERMUwcVqGCotY1tnX4kG</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Hi. Thank you for visiting. If you\u2019re here, you\u2019ve probably seen some of my work already. The best way to support me is by with a monthly recurring donation as a patron. Monthly donations, even as little as $1, from hundreds of patrons provide me a stable monthly income that gives me the financial security to focus on my community &#8230;</p>\n",
+      "protected": false
+    },
+    "author": 3,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/1390"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/users/3"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/comments?post=1390"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/1390/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/media?parent=1390"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 999,
+    "date": "2016-02-22T20:31:00",
+    "date_gmt": "2016-02-22T20:31:00",
+    "guid": {
+      "rendered": "http://benmorristech.com/demo-portfolio/"
+    },
+    "modified": "2019-11-29T21:39:09",
+    "modified_gmt": "2019-11-29T21:39:09",
+    "slug": "portfolio",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.benmorristech.com/portfolio/",
+    "title": {
+      "rendered": "Portfolio"
+    },
+    "content": {
+      "rendered": "<h1><strong>Check Out Behance Site:</strong></h1>\n<h2><strong><a href=\"https://www.behance.net/benmorris\">https://www.behance.net/benmorris</a></strong></h2>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Check Out Behance Site: https://www.behance.net/benmorris</p>\n",
+      "protected": false
+    },
+    "author": 3,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/999"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/users/3"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/comments?post=999"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/999/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/media?parent=999"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 998,
+    "date": "2016-02-22T20:31:00",
+    "date_gmt": "2016-02-22T20:31:00",
+    "guid": {
+      "rendered": "http://benmorristech.com/demo-blog/"
+    },
+    "modified": "2016-03-29T23:03:04",
+    "modified_gmt": "2016-03-29T23:03:04",
+    "slug": "blog",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.benmorristech.com/blog/",
+    "title": {
+      "rendered": "Blog"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 3,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/998"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/users/3"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/comments?post=998"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/998/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/media?parent=998"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 997,
+    "date": "2016-02-22T20:31:00",
+    "date_gmt": "2016-02-22T20:31:00",
+    "guid": {
+      "rendered": "http://benmorristech.com/demo-home/"
+    },
+    "modified": "2021-04-16T00:05:26",
+    "modified_gmt": "2021-04-16T00:05:26",
+    "slug": "demo-home",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.benmorristech.com/",
+    "title": {
+      "rendered": "Home"
+    },
+    "content": {
+      "rendered": "<div id=\"cs-content\" class=\"cs-content\"  ><div id=\"x-section-1\" class=\"x-section\" style=\"margin: 0px;padding: 45px 0px; background-color: hsla(0, 100%, 2%, 1);\"  ><div class=\"x-container max width\" style=\"margin: 0px auto;padding: 0px;\"  ><div  class=\"x-column x-sm x-1-1\" style=\"padding: 0px;\" ><a  class=\"x-btn x-btn-jumbo x-btn-block\"  href=\"https://docs.google.com/document/d/1Fil4IFK3kXiwvYAXc3mWqWTGjkXfOfGNeaFBaGBz_80/edit?usp=sharing\"  target=\"_blank\" rel=\"\"   data-options=\"thumbnail: ''\">Resume/CV</a></div></div></div><div id=\"x-section-2\" class=\"x-section cs-ta-center\" style=\"margin: 0px;padding: 45px 0px; background-color: hsl(0, 100%, 2%);\"  ><div class=\"x-container max width\" style=\"margin: 0px auto;padding: 0px;\"  ><div  class=\"x-column x-sm x-1-1\" style=\"padding: 0px;\" ><h2  class=\"h-custom-headline resp-h man h2 accent\" style=\"color: hsl(0, 0%, 100%);\"><span>Recent Posts</span></h2></div></div></div><div id=\"x-section-3\" class=\"x-section\" style=\"margin: 0px;padding: 0px;border-style: solid;border-width: 1px; background-color: hsl(0, 3%, 5%);\"  ><div class=\"x-container marginless-columns\" style=\"margin: 0px;padding: 0px;\"  ><div  class=\"x-column x-sm x-1-1\" style=\"padding: 0px;\" ><div  class=\"x-recent-posts cf man horizontal\"  data-x-element=\"recent_posts\" data-x-params=\"{&quot;fade&quot;:true}\"  data-fade=\"true\" ><a class=\"x-recent-post4 with-image\" href=\"https://www.benmorristech.com/building-trusted-and-continuously-impactful-brand-and-commerce-goalzero/\" title=\"Permalink to: &quot;Building Trusted And Continuously Impactful Brand and Commerce. -GoalZero&quot;\"><article id=\"post-1983\" class=\"post-1983 post type-post status-publish format-standard has-post-thumbnail hentry category-blog category-ecommerce category-featured tag-ecommerce\"><div class=\"entry-wrap\"><div class=\"x-recent-posts-img\" style=\"background-image: url(https://www.benmorristech.com/wp-content/uploads/2021/03/lost-temple-2017-goal-zero-18-c2ea.jpg);\"></div><div class=\"x-recent-posts-content\"><h3 class=\"h-recent-posts\">Building Trusted And Continuously Impactful Brand and Commerce. -GoalZero</h3><span class=\"x-recent-posts-date\">March 8, 2021</span></div></div></article></a><a class=\"x-recent-post4 with-image\" href=\"https://www.benmorristech.com/discussing-cryptocurrency-nano-with-a-high-school-student/\" title=\"Permalink to: &quot;Discussing Cryptocurrency Nano with a high school student.&quot;\"><article id=\"post-1972\" class=\"post-1972 post type-post status-publish format-standard has-post-thumbnail hentry category-audio category-blog category-ecommerce category-technology tag-crypto\"><div class=\"entry-wrap\"><div class=\"x-recent-posts-img\" style=\"background-image: url(https://www.benmorristech.com/wp-content/uploads/2021/01/Nano-altcoin-750x472-2.png);\"></div><div class=\"x-recent-posts-content\"><h3 class=\"h-recent-posts\">Discussing Cryptocurrency Nano with a high school student.</h3><span class=\"x-recent-posts-date\">January 19, 2021</span></div></div></article></a><a class=\"x-recent-post4 with-image\" href=\"https://www.benmorristech.com/building-augmented-reality-ar-experiences-for-retail-and-mall-environments-gamification/\" title=\"Permalink to: &quot;Building Augmented Reality (AR) Experiences for Retail and Mall Environments &#8211; Gamification&quot;\"><article id=\"post-1963\" class=\"post-1963 post type-post status-publish format-standard has-post-thumbnail hentry category-augment category-augment-reality category-blog category-ecommerce category-technology tag-augmented-reality tag-ecommerce tag-mobile\"><div class=\"entry-wrap\"><div class=\"x-recent-posts-img\" style=\"background-image: url(https://www.benmorristech.com/wp-content/uploads/2021/01/ARExperiences.png);\"></div><div class=\"x-recent-posts-content\"><h3 class=\"h-recent-posts\">Building Augmented Reality (AR) Experiences for Retail and Mall Environments &#8211; Gamification</h3><span class=\"x-recent-posts-date\">January 15, 2021</span></div></div></article></a><a class=\"x-recent-post4 with-image\" href=\"https://www.benmorristech.com/building-a-commerce-experience-for-outdoor-brand-smith-optics/\" title=\"Permalink to: &quot;Building A Commerce Experience for An Outdoor Brand &#8211; Smith Optics&quot;\"><article id=\"post-1956\" class=\"post-1956 post type-post status-publish format-standard has-post-thumbnail hentry category-blog category-ecommerce category-featured tag-ecommerce\"><div class=\"entry-wrap\"><div class=\"x-recent-posts-img\" style=\"background-image: url(https://www.benmorristech.com/wp-content/uploads/2021/01/Smith-745x829.png);\"></div><div class=\"x-recent-posts-content\"><h3 class=\"h-recent-posts\">Building A Commerce Experience for An Outdoor Brand &#8211; Smith Optics</h3><span class=\"x-recent-posts-date\">January 10, 2021</span></div></div></article></a></div></div></div></div>\n<div class=\"e997-13 x-section\">\n      \n<div class=\"e997-14 x-container max width\">\n    \n<div class=\"e997-15 x-column x-sm x-1-1\">\n    <h2  class=\"h-custom-headline cs-ta-center resp-h man h2 accent\" style=\"color: hsla(0, 0%, 100%, 100);\"><span>BOOK REVIEWS</span></h2></div>\n</div>\n    </div>\n\n<div class=\"e997-17 x-section\">\n      \n<div class=\"e997-18 x-container max width\">\n    \n<div class=\"e997-19 x-column x-sm x-1-1\">\n    <div  class=\"x-recent-posts cf horizontal\"  data-x-element=\"recent_posts\" data-x-params=\"{&quot;fade&quot;:false}\"  data-fade=\"false\" ><a class=\"x-recent-post4 with-image\" href=\"https://www.benmorristech.com/stillness-is-the-key-review-goodreads-embed/\" title=\"Permalink to: &quot;STILLNESS IS THE KEY &#8211; REVIEW- GOODREADS-EMBED&quot;\"><article id=\"post-1824\" class=\"post-1824 post type-post status-publish format-standard has-post-thumbnail hentry category-book-reviews category-performance tag-books tag-mind tag-philosophy\"><div class=\"entry-wrap\"><div class=\"x-recent-posts-img\" style=\"background-image: url(https://wordpress-benmorris-assets.s3.amazonaws.com/wp-content/uploads/2020/06/15003251/Screen-Shot-2020-06-14-at-5.28.59-PM.png);\"></div><div class=\"x-recent-posts-content\"><h3 class=\"h-recent-posts\">STILLNESS IS THE KEY &#8211; REVIEW- GOODREADS-EMBED</h3><span class=\"x-recent-posts-date\">June 15, 2020</span></div></div></article></a><a class=\"x-recent-post4 with-image\" href=\"https://www.benmorristech.com/book-review-the-power-of-now-a-guide-to-spiritual-enlightment-by-eckhart-tolle/\" title=\"Permalink to: &quot;BOOK REVIEW: The Power Of Now: A Guide To Spiritual Enlightment By Eckhart Tolle&quot;\"><article id=\"post-1545\" class=\"post-1545 post type-post status-publish format-standard has-post-thumbnail hentry category-book-reviews category-learning\"><div class=\"entry-wrap\"><div class=\"x-recent-posts-img\" style=\"background-image: url(https://www.benmorristech.com/wp-content/uploads/2019/09/POfNow.jpg);\"></div><div class=\"x-recent-posts-content\"><h3 class=\"h-recent-posts\">BOOK REVIEW: The Power Of Now: A Guide To Spiritual Enlightment By Eckhart Tolle</h3><span class=\"x-recent-posts-date\">September 15, 2019</span></div></div></article></a><a class=\"x-recent-post4 with-image\" href=\"https://www.benmorristech.com/exhalationstories-by-ted-chiang/\" title=\"Permalink to: &quot;BOOK REVIEW: Exhalation:Stories By Ted Chiang&quot;\"><article id=\"post-1521\" class=\"post-1521 post type-post status-publish format-standard has-post-thumbnail hentry category-book-reviews tag-bookreview\"><div class=\"entry-wrap\"><div class=\"x-recent-posts-img\" style=\"background-image: url(https://www.benmorristech.com/wp-content/uploads/2019/08/716-zcQkZQL-1484x829.jpg);\"></div><div class=\"x-recent-posts-content\"><h3 class=\"h-recent-posts\">BOOK REVIEW: Exhalation:Stories By Ted Chiang</h3><span class=\"x-recent-posts-date\">August 18, 2019</span></div></div></article></a></div></div>\n</div>\n    </div>\n<div id=\"x-section-4\" class=\"x-section cs-ta-center\" style=\"margin: 0px;padding: 0px;border-style: solid;border-width: 1px; background-color: hsl(0, 0%, 0%);\"  ><div class=\"x-container marginless-columns\" style=\"margin: 0px;padding: 0px;\"  ></div></div><span id=\"x-responsive-text-1\" data-x-element=\"responsive_text\" data-x-params=\"{&quot;selector&quot;:&quot;.resp-h&quot;,&quot;compression&quot;:&quot;1.35&quot;,&quot;minFontSize&quot;:&quot;36px&quot;,&quot;maxFontSize&quot;:&quot;64px&quot;}\" ></span></div>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Resume/CVRecent PostsBuilding Trusted And Continuously Impactful Brand and Commerce. -GoalZeroMarch 8, 2021Discussing Cryptocurrency Nano with a high school student.January 19, 2021Building Augmented Reality (AR) Experiences for Retail and Mall Environments &#8211; GamificationJanuary 15, 2021Building A Commerce Experience for An Outdoor Brand &#8211; Smith OpticsJanuary 10, 2021 BOOK REVIEWS STILLNESS IS THE KEY &#8211; REVIEW- GOODREADS-EMBEDJune 15, 2020BOOK REVIEW: The Power &#8230;</p>\n",
+      "protected": false
+    },
+    "author": 3,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "template-blank-4.php",
+    "meta": [],
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/997"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/users/3"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/comments?post=997"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 6,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/997/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1991,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/997/revisions/1991"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/media?parent=997"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 915,
+    "date": "2014-11-08T00:37:27",
+    "date_gmt": "2014-11-08T00:37:27",
+    "guid": {
+      "rendered": "http://benmorristech.com/wpbc-order-info/"
+    },
+    "modified": "2014-11-08T00:37:27",
+    "modified_gmt": "2014-11-08T00:37:27",
+    "slug": "wpbc-order-info",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.benmorristech.com/wpbc-order-info/",
+    "title": {
+      "rendered": "Order Information"
+    },
+    "content": {
+      "rendered": "<p>This page has been created by WP Bitcoin plugin. Please do not delete it. You can hide this page from your navigation menu.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>This page has been created by WP Bitcoin plugin. Please do not delete it. You can hide this page from your navigation menu.</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "template": "",
+    "meta": [],
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/915"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/comments?post=915"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/915/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/media?parent=915"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 902,
+    "date": "2014-07-16T01:01:40",
+    "date_gmt": "2014-07-16T01:01:40",
+    "guid": {
+      "rendered": "http://benmorristech.com/my-account/"
+    },
+    "modified": "2014-07-16T01:01:40",
+    "modified_gmt": "2014-07-16T01:01:40",
+    "slug": "my-account",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.benmorristech.com/my-account/",
+    "title": {
+      "rendered": "My Account"
+    },
+    "content": {
+      "rendered": "[woocommerce_my_account]\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>[woocommerce_my_account]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "template": "",
+    "meta": [],
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/902"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/comments?post=902"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/902/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/media?parent=902"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 901,
+    "date": "2014-07-16T01:01:34",
+    "date_gmt": "2014-07-16T01:01:34",
+    "guid": {
+      "rendered": "http://benmorristech.com/checkout/"
+    },
+    "modified": "2014-07-16T01:01:34",
+    "modified_gmt": "2014-07-16T01:01:34",
+    "slug": "checkout",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.benmorristech.com/checkout/",
+    "title": {
+      "rendered": "Checkout"
+    },
+    "content": {
+      "rendered": "[woocommerce_checkout]\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>[woocommerce_checkout]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "template": "",
+    "meta": [],
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/901"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/comments?post=901"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/901/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/media?parent=901"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 900,
+    "date": "2014-07-16T01:01:28",
+    "date_gmt": "2014-07-16T01:01:28",
+    "guid": {
+      "rendered": "http://benmorristech.com/cart/"
+    },
+    "modified": "2014-07-16T01:01:28",
+    "modified_gmt": "2014-07-16T01:01:28",
+    "slug": "cart",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.benmorristech.com/cart/",
+    "title": {
+      "rendered": "Cart"
+    },
+    "content": {
+      "rendered": "[woocommerce_cart]\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>[woocommerce_cart]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "template": "",
+    "meta": [],
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/900"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/comments?post=900"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/900/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/media?parent=900"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 899,
+    "date": "2014-07-16T01:01:24",
+    "date_gmt": "2014-07-16T01:01:24",
+    "guid": {
+      "rendered": "http://benmorristech.com/shop/"
+    },
+    "modified": "2014-07-16T01:01:24",
+    "modified_gmt": "2014-07-16T01:01:24",
+    "slug": "shop",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.benmorristech.com/shop/",
+    "title": {
+      "rendered": "Shop"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "template": "",
+    "meta": [],
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/899"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/comments?post=899"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/899/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/media?parent=899"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "date": "2013-04-08T23:02:54",
+    "date_gmt": "2013-04-08T23:02:54",
+    "guid": {
+      "rendered": "http://benmorristech.com/?page_id=2"
+    },
+    "modified": "2017-05-01T03:41:26",
+    "modified_gmt": "2017-05-01T03:41:26",
+    "slug": "sample-page",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.benmorristech.com/sample-page/",
+    "title": {
+      "rendered": "Sample Page"
+    },
+    "content": {
+      "rendered": "<div id=\"cs-content\" class=\"cs-content\"  ><div id=\"x-section-9\" class=\"x-section\" style=\"margin: 0px;padding: 45px 0px; background-color: transparent;\"  ><div class=\"x-container max width\" style=\"margin: 0px auto;padding: 0px;\"  ><div  class=\"x-column x-sm x-1-1\" style=\"padding: 0px;\" ><pre  class=\"x-code\" ><code>This shortcode is great for outputting code snippets or preformatted text.</code></pre></div></div></div></div>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "open",
+    "ping_status": "open",
+    "template": "",
+    "meta": [],
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/2"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/comments?post=2"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/2/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/media?parent=2"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 385,
+    "date": "2013-01-14T15:36:48",
+    "date_gmt": "2013-01-14T15:36:48",
+    "guid": {
+      "rendered": "http://demo.studiopress.com/metro/?page_id=375"
+    },
+    "modified": "2013-01-14T15:36:48",
+    "modified_gmt": "2013-01-14T15:36:48",
+    "slug": "ssc",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.benmorristech.com/layouts/ssc/",
+    "title": {
+      "rendered": "Sidebar/Sidebar/Content"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 61,
+    "menu_order": 0,
+    "comment_status": "open",
+    "ping_status": "open",
+    "template": "page_blog.php",
+    "meta": [],
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/385"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/comments?post=385"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/385/revisions"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/61"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/media?parent=385"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 384,
+    "date": "2013-01-14T15:36:24",
+    "date_gmt": "2013-01-14T15:36:24",
+    "guid": {
+      "rendered": "http://demo.studiopress.com/metro/?page_id=373"
+    },
+    "modified": "2013-01-14T15:36:24",
+    "modified_gmt": "2013-01-14T15:36:24",
+    "slug": "scs",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.benmorristech.com/layouts/scs/",
+    "title": {
+      "rendered": "Sidebar/Content/Sidebar"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 61,
+    "menu_order": 0,
+    "comment_status": "open",
+    "ping_status": "open",
+    "template": "page_blog.php",
+    "meta": [],
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/384"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/comments?post=384"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/384/revisions"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/61"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/media?parent=384"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 383,
+    "date": "2013-01-14T15:35:52",
+    "date_gmt": "2013-01-14T15:35:52",
+    "guid": {
+      "rendered": "http://demo.studiopress.com/metro/?page_id=369"
+    },
+    "modified": "2013-01-14T15:35:52",
+    "modified_gmt": "2013-01-14T15:35:52",
+    "slug": "css",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.benmorristech.com/layouts/css/",
+    "title": {
+      "rendered": "Content/Sidebar/Sidebar"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 61,
+    "menu_order": 0,
+    "comment_status": "open",
+    "ping_status": "open",
+    "template": "page_blog.php",
+    "meta": [],
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/383"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/comments?post=383"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/383/revisions"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/61"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/media?parent=383"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 382,
+    "date": "2013-01-14T14:38:07",
+    "date_gmt": "2013-01-14T14:38:07",
+    "guid": {
+      "rendered": "http://demo.studiopress.com/metro/?page_id=366"
+    },
+    "modified": "2013-01-14T14:38:07",
+    "modified_gmt": "2013-01-14T14:38:07",
+    "slug": "landing",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.benmorristech.com/templates/landing/",
+    "title": {
+      "rendered": "Landing Page"
+    },
+    "content": {
+      "rendered": "<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<h4>Reason #1 Why You Should Buy My Product</h4>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages as you like and manage all of your content inside of WordPress.</p>\n<h4>Reason #2 Why You Should Buy My Product</h4>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages as you like and manage all of your content inside of WordPress.</p>\n<h4>Reason #3 Why You Should Buy My Product</h4>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages as you like and manage all of your content inside of WordPress.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. Reason #1 Why You Should Buy My Product This &#8230;</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 75,
+    "menu_order": 0,
+    "comment_status": "open",
+    "ping_status": "open",
+    "template": "page_landing.php",
+    "meta": [],
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/382"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/comments?post=382"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/382/revisions"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/75"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/media?parent=382"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 181,
+    "date": "2011-02-03T18:06:59",
+    "date_gmt": "2011-02-03T18:06:59",
+    "guid": {
+      "rendered": "http://demo.studiopress.com/genesis/?page_id=181"
+    },
+    "modified": "2011-02-03T18:06:59",
+    "modified_gmt": "2011-02-03T18:06:59",
+    "slug": "columns",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.benmorristech.com/columns/",
+    "title": {
+      "rendered": "Column Classes"
+    },
+    "content": {
+      "rendered": "<p>Below are examples of column classes that are available in the Genesis Framework style sheet.</p>\n<h3>Two-Columns</h3>\n<div class=\"one-half first\">\n<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what exactly is on your mind.</p>\n</div>\n<div class=\"one-half\">\n<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what exactly is on your mind.</p>\n</div>\n<div class=\"clear-line\"></div>\n<h3>Three-Columns</h3>\n<div class=\"one-third first\">\n<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>\n</div>\n<div class=\"one-third\">\n<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>\n</div>\n<div class=\"one-third\">\n<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>\n</div>\n<div class=\"clear-line\"></div>\n<h3>Four-Columns</h3>\n<div class=\"one-fourth first\">\n<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what exactly is on your mind.</p>\n</div>\n<div class=\"one-fourth\">\n<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what exactly is on your mind.</p>\n</div>\n<div class=\"one-fourth\">\n<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what exactly is on your mind.</p>\n</div>\n<div class=\"one-fourth\">\n<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what exactly is on your mind.</p>\n</div>\n<div class=\"clear-line\"></div>\n<h3>Five-Columns</h3>\n<div class=\"one-fifth first\">\n<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what exactly is on your mind.</p>\n</div>\n<div class=\"one-fifth\">\n<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what exactly is on your mind.</p>\n</div>\n<div class=\"one-fifth\">\n<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what exactly is on your mind.</p>\n</div>\n<div class=\"one-fifth\">\n<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what exactly is on your mind.</p>\n</div>\n<div class=\"one-fifth\">\n<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what exactly is on your mind.</p>\n</div>\n<div class=\"clear-line\"></div>\n<h3>Six-Columns</h3>\n<div class=\"one-sixth first\">\n<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>\n</div>\n<div class=\"one-sixth\">\n<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>\n</div>\n<div class=\"one-sixth\">\n<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>\n</div>\n<div class=\"one-sixth\">\n<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>\n</div>\n<div class=\"one-sixth\">\n<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>\n</div>\n<div class=\"one-sixth\">\n<p>This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers what is on your mind.</p>\n</div>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Below are examples of column classes that are available in the Genesis Framework style sheet. Two-Columns This is an example of a WordPress post, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many posts as you like in order to share with your readers &#8230;</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/181"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/comments?post=181"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/181/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/media?parent=181"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 83,
+    "date": "2010-08-15T19:13:33",
+    "date_gmt": "2010-08-15T19:13:33",
+    "guid": {
+      "rendered": "http://demo.studiopress.com/genesis"
+    },
+    "modified": "2010-08-15T19:13:33",
+    "modified_gmt": "2010-08-15T19:13:33",
+    "slug": "contact",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.benmorristech.com/contact/",
+    "title": {
+      "rendered": "Contact Page"
+    },
+    "content": {
+      "rendered": "[gravityform id=1 name=ContactForm title=false description=false]\n<p>* This contact form was developed with a third party plugin called <a href=\"http://www.studiopress.com/go/gravity\">Gravity Forms</a> and is not included in the Genesis Framework. It is for display on this demo site &#8211; though we highly recommend using it.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>[gravityform id=1 name=ContactForm title=false description=false] * This contact form was developed with a third party plugin called Gravity Forms and is not included in the Genesis Framework. It is for display on this demo site &#8211; though we highly recommend using it.</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 11,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/83"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/comments?post=83"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/83/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/media?parent=83"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 79,
+    "date": "2010-08-15T19:12:43",
+    "date_gmt": "2010-08-15T19:12:43",
+    "guid": {
+      "rendered": "http://demo.studiopress.com/genesis"
+    },
+    "modified": "2010-08-15T19:12:43",
+    "modified_gmt": "2010-08-15T19:12:43",
+    "slug": "blog",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.benmorristech.com/templates/blog/",
+    "title": {
+      "rendered": "Blog Page"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 75,
+    "menu_order": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "page_blog.php",
+    "meta": [],
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/79"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/comments?post=79"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/79/revisions"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/75"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/media?parent=79"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 77,
+    "date": "2010-08-15T19:12:26",
+    "date_gmt": "2010-08-15T19:12:26",
+    "guid": {
+      "rendered": "http://demo.studiopress.com/genesis"
+    },
+    "modified": "2010-08-15T19:12:26",
+    "modified_gmt": "2010-08-15T19:12:26",
+    "slug": "archive",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.benmorristech.com/templates/archive/",
+    "title": {
+      "rendered": "Archive Page"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 75,
+    "menu_order": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "page_archive.php",
+    "meta": [],
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/77"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/comments?post=77"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/77/revisions"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/75"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/media?parent=77"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 75,
+    "date": "2010-08-15T19:11:56",
+    "date_gmt": "2010-08-15T19:11:56",
+    "guid": {
+      "rendered": "http://demo.studiopress.com/genesis"
+    },
+    "modified": "2010-08-15T19:11:56",
+    "modified_gmt": "2010-08-15T19:11:56",
+    "slug": "templates",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.benmorristech.com/templates/",
+    "title": {
+      "rendered": "Page Templates"
+    },
+    "content": {
+      "rendered": "<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you &#8230;</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/75"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/comments?post=75"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/75/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/media?parent=75"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 73,
+    "date": "2010-08-15T19:11:13",
+    "date_gmt": "2010-08-15T19:11:13",
+    "guid": {
+      "rendered": "http://demo.studiopress.com/genesis"
+    },
+    "modified": "2010-08-15T19:11:13",
+    "modified_gmt": "2010-08-15T19:11:13",
+    "slug": "fwc",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.benmorristech.com/layouts/fwc/",
+    "title": {
+      "rendered": "Full Width Content"
+    },
+    "content": {
+      "rendered": "<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you &#8230;</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 61,
+    "menu_order": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/73"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/comments?post=73"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/73/revisions"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/61"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/media?parent=73"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 65,
+    "date": "2010-08-15T19:09:20",
+    "date_gmt": "2010-08-15T19:09:20",
+    "guid": {
+      "rendered": "http://demo.studiopress.com/genesis"
+    },
+    "modified": "2010-08-15T19:09:20",
+    "modified_gmt": "2010-08-15T19:09:20",
+    "slug": "sc",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.benmorristech.com/layouts/sc/",
+    "title": {
+      "rendered": "Sidebar/Content"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 61,
+    "menu_order": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "page_blog.php",
+    "meta": [],
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/65"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/comments?post=65"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/65/revisions"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/61"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/media?parent=65"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 63,
+    "date": "2010-08-15T19:09:00",
+    "date_gmt": "2010-08-15T19:09:00",
+    "guid": {
+      "rendered": "http://demo.studiopress.com/genesis"
+    },
+    "modified": "2010-08-15T19:09:00",
+    "modified_gmt": "2010-08-15T19:09:00",
+    "slug": "cs",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.benmorristech.com/layouts/cs/",
+    "title": {
+      "rendered": "Content/Sidebar"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 61,
+    "menu_order": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "page_blog.php",
+    "meta": [],
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/63"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/comments?post=63"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/63/revisions"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/61"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/media?parent=63"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 61,
+    "date": "2010-08-15T19:08:02",
+    "date_gmt": "2010-08-15T19:08:02",
+    "guid": {
+      "rendered": "http://demo.studiopress.com/genesis"
+    },
+    "modified": "2010-08-15T19:08:02",
+    "modified_gmt": "2010-08-15T19:08:02",
+    "slug": "layouts",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.benmorristech.com/layouts/",
+    "title": {
+      "rendered": "Page Layouts"
+    },
+    "content": {
+      "rendered": "<p>Below is a list of 6 post/page layouts that come with the Genesis theme framework:</p>\n<ul>\n<li><a href=\"http://demo.studiopress.com/genesis/layouts/cs\">Content/Sidebar</a></li>\n<li><a href=\"http://demo.studiopress.com/genesis/layouts/sc\">Sidebar/Content</a></li>\n<li><a href=\"http://demo.studiopress.com/genesis/layouts/css\">Content/Sidebar/Sidebar</a></li>\n<li><a href=\"http://demo.studiopress.com/genesis/layouts/ssc\">Sidebar/Sidebar/Content</a></li>\n<li><a href=\"http://demo.studiopress.com/genesis/layouts/scs\">Sidebar/Content/Sidebar</a></li>\n<li><a href=\"http://demo.studiopress.com/genesis/layouts/fwc\">Full Width Content</a></li>\n</ul>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Below is a list of 6 post/page layouts that come with the Genesis theme framework: Content/Sidebar Sidebar/Content Content/Sidebar/Sidebar Sidebar/Sidebar/Content Sidebar/Content/Sidebar Full Width Content</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/61"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/comments?post=61"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/61/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/media?parent=61"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 58,
+    "date": "2010-08-15T19:06:28",
+    "date_gmt": "2010-08-15T19:06:28",
+    "guid": {
+      "rendered": "http://demo.studiopress.com/genesis"
+    },
+    "modified": "2010-08-15T19:06:28",
+    "modified_gmt": "2010-08-15T19:06:28",
+    "slug": "sub-page-33",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.benmorristech.com/sample/sub-page-11/sub-page-21/sub-page-33/",
+    "title": {
+      "rendered": "Sub Page 3.3"
+    },
+    "content": {
+      "rendered": "<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you &#8230;</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 53,
+    "menu_order": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/58"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/comments?post=58"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/58/revisions"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/53"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/media?parent=58"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 57,
+    "date": "2010-08-15T19:06:13",
+    "date_gmt": "2010-08-15T19:06:13",
+    "guid": {
+      "rendered": "http://demo.studiopress.com/genesis"
+    },
+    "modified": "2010-08-15T19:06:13",
+    "modified_gmt": "2010-08-15T19:06:13",
+    "slug": "sub-page-32",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.benmorristech.com/sample/sub-page-11/sub-page-21/sub-page-32/",
+    "title": {
+      "rendered": "Sub Page 3.2"
+    },
+    "content": {
+      "rendered": "<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you &#8230;</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 53,
+    "menu_order": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/57"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/comments?post=57"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/57/revisions"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/53"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/media?parent=57"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 56,
+    "date": "2010-08-15T19:06:00",
+    "date_gmt": "2010-08-15T19:06:00",
+    "guid": {
+      "rendered": "http://demo.studiopress.com/genesis"
+    },
+    "modified": "2010-08-15T19:06:00",
+    "modified_gmt": "2010-08-15T19:06:00",
+    "slug": "sub-page-31",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.benmorristech.com/sample/sub-page-11/sub-page-21/sub-page-31/",
+    "title": {
+      "rendered": "Sub Page 3.1"
+    },
+    "content": {
+      "rendered": "<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you &#8230;</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 53,
+    "menu_order": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/56"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/comments?post=56"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/56/revisions"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/53"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/media?parent=56"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 55,
+    "date": "2010-08-15T19:05:43",
+    "date_gmt": "2010-08-15T19:05:43",
+    "guid": {
+      "rendered": "http://demo.studiopress.com/genesis"
+    },
+    "modified": "2010-08-15T19:05:43",
+    "modified_gmt": "2010-08-15T19:05:43",
+    "slug": "sub-page-23",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.benmorristech.com/sample/sub-page-11/sub-page-23/",
+    "title": {
+      "rendered": "Sub Page 2.3"
+    },
+    "content": {
+      "rendered": "<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you &#8230;</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 33,
+    "menu_order": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/55"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/comments?post=55"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/55/revisions"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/33"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/media?parent=55"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 54,
+    "date": "2010-08-15T19:05:25",
+    "date_gmt": "2010-08-15T19:05:25",
+    "guid": {
+      "rendered": "http://demo.studiopress.com/genesis"
+    },
+    "modified": "2010-08-15T19:05:25",
+    "modified_gmt": "2010-08-15T19:05:25",
+    "slug": "sub-page-22",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.benmorristech.com/sample/sub-page-11/sub-page-22/",
+    "title": {
+      "rendered": "Sub Page 2.2"
+    },
+    "content": {
+      "rendered": "<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you &#8230;</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 33,
+    "menu_order": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/54"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/comments?post=54"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/54/revisions"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/33"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/media?parent=54"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 53,
+    "date": "2010-08-15T19:05:12",
+    "date_gmt": "2010-08-15T19:05:12",
+    "guid": {
+      "rendered": "http://demo.studiopress.com/genesis"
+    },
+    "modified": "2010-08-15T19:05:12",
+    "modified_gmt": "2010-08-15T19:05:12",
+    "slug": "sub-page-21",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.benmorristech.com/sample/sub-page-11/sub-page-21/",
+    "title": {
+      "rendered": "Sub Page 2.1"
+    },
+    "content": {
+      "rendered": "<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you &#8230;</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 33,
+    "menu_order": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/53"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/comments?post=53"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/53/revisions"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/33"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/media?parent=53"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 52,
+    "date": "2010-08-15T19:04:52",
+    "date_gmt": "2010-08-15T19:04:52",
+    "guid": {
+      "rendered": "http://demo.studiopress.com/genesis"
+    },
+    "modified": "2010-08-15T19:04:52",
+    "modified_gmt": "2010-08-15T19:04:52",
+    "slug": "sub-page-13",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.benmorristech.com/sample/sub-page-13/",
+    "title": {
+      "rendered": "Sub Page 1.3"
+    },
+    "content": {
+      "rendered": "<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you &#8230;</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 31,
+    "menu_order": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/52"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/comments?post=52"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/52/revisions"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/31"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/media?parent=52"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 35,
+    "date": "2010-08-15T19:04:33",
+    "date_gmt": "2010-08-15T19:04:33",
+    "guid": {
+      "rendered": "http://demo.studiopress.com/genesis"
+    },
+    "modified": "2010-08-15T19:04:33",
+    "modified_gmt": "2010-08-15T19:04:33",
+    "slug": "sub-page-12",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.benmorristech.com/sample/sub-page-12/",
+    "title": {
+      "rendered": "Sub Page 1.2"
+    },
+    "content": {
+      "rendered": "<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you &#8230;</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 31,
+    "menu_order": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/35"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/comments?post=35"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/35/revisions"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/31"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/media?parent=35"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "date": "2010-08-15T19:04:08",
+    "date_gmt": "2010-08-15T19:04:08",
+    "guid": {
+      "rendered": "http://demo.studiopress.com/genesis"
+    },
+    "modified": "2010-08-15T19:04:08",
+    "modified_gmt": "2010-08-15T19:04:08",
+    "slug": "sub-page-11",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.benmorristech.com/sample/sub-page-11/",
+    "title": {
+      "rendered": "Sub Page 1.1"
+    },
+    "content": {
+      "rendered": "<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you &#8230;</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 31,
+    "menu_order": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/33"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/comments?post=33"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/33/revisions"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/31"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/media?parent=33"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "date": "2010-08-15T19:03:46",
+    "date_gmt": "2010-08-15T19:03:46",
+    "guid": {
+      "rendered": "http://demo.studiopress.com/genesis"
+    },
+    "modified": "2010-08-15T19:03:46",
+    "modified_gmt": "2010-08-15T19:03:46",
+    "slug": "sample",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.benmorristech.com/sample/",
+    "title": {
+      "rendered": "Sample Page"
+    },
+    "content": {
+      "rendered": "<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages as you like and manage all of your content inside of WordPress.</p>\n<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages as you like and manage all of your content inside of WordPress.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages as you like and manage all of your content inside of WordPress. This is an example of a WordPress page, you could edit this to put &#8230;</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/31"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/comments?post=31"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/31/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/media?parent=31"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 417,
+    "date": "2010-04-09T03:41:49",
+    "date_gmt": "2010-04-09T03:41:49",
+    "guid": {
+      "rendered": "http://benmorristech.com/?page_id=417"
+    },
+    "modified": "2010-04-09T03:41:49",
+    "modified_gmt": "2010-04-09T03:41:49",
+    "slug": "about",
+    "status": "publish",
+    "type": "page",
+    "link": "https://www.benmorristech.com/about/",
+    "title": {
+      "rendered": "About"
+    },
+    "content": {
+      "rendered": "<p><strong>Exercise Technology</strong></p>\n<p>The blog is dedicated to helping people learn some of the advancements/innovations in the areas of exercise technology and also citizen health/upgraded self technology.  Food as fuel is covered as all technology needs ENERGY to propel through the universe. </p>\n<p>Enjoy ! </p>\n<p>Check out my Tumbler site too:<br />\nhttp://perfectenergy.tumblr.com/<br />\nGoogle + :  https://plus.google.com/109100339972488195928</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Exercise Technology The blog is dedicated to helping people learn some of the advancements/innovations in the areas of exercise technology and also citizen health/upgraded self technology. Food as fuel is covered as all technology needs ENERGY to propel through the universe. Enjoy ! Check out my Tumbler site too: http://perfectenergy.tumblr.com/ Google + : https://plus.google.com/109100339972488195928</p>\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "open",
+    "ping_status": "open",
+    "template": "",
+    "meta": [],
+    "aioseo_notices": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/417"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/comments?post=417"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/pages/417/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/media?parent=417"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

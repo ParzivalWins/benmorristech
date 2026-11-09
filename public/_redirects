@@ -1,0 +1,12 @@
+# Legacy WordPress Redirects to Astro
+/portfolio /work 301
+/portfolio/* /work 301
+/blog-page /blog 301
+/demo-home / 301
+/contact-page /contact 301
+
+# Block legacy WordPress vulnerability probing
+/wp-admin/* / 404
+/wp-login.php / 404
+/xmlrpc.php / 404
+/wp-content/plugins/* / 404

@@ -1,0 +1,1924 @@
+[
+  {
+    "id": 150,
+    "count": 4,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/audio/",
+    "name": "Audio",
+    "slug": "audio",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/150"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=150"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 264,
+    "count": 2,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/augment/",
+    "name": "Augment",
+    "slug": "augment",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/264"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=264"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 265,
+    "count": 4,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/augment-reality/",
+    "name": "Augment Reality",
+    "slug": "augment-reality",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/265"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=265"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 235,
+    "count": 7,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/aws/",
+    "name": "AWS",
+    "slug": "aws",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/235"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=235"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "count": 7,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/exercise/bike/",
+    "name": "Bike",
+    "slug": "bike",
+    "taxonomy": "category",
+    "parent": 93,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/29"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/93"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=29"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 261,
+    "count": 22,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/blog/",
+    "name": "BLOG",
+    "slug": "blog",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/261"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=261"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 267,
+    "count": 3,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/book-reviews/",
+    "name": "Book Reviews",
+    "slug": "book-reviews",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/267"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=267"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 114,
+    "count": 2,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/brain/",
+    "name": "brain",
+    "slug": "brain",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/114"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=114"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 231,
+    "count": 9,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/business/",
+    "name": "Business",
+    "slug": "business",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/231"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=231"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "count": 1,
+    "description": "This is an sample category description, which can be used to boost SEO rankings.  Make sure you enabled this from the Edit Category screen in your dashboard.",
+    "link": "https://www.benmorristech.com/category/category-4/",
+    "name": "Category #4",
+    "slug": "category-4",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/6"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=6"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "count": 1,
+    "description": "This is an sample category description, which can be used to boost SEO rankings.  Make sure you enabled this from the Edit Category screen in your dashboard.",
+    "link": "https://www.benmorristech.com/category/category-5/",
+    "name": "Category #5",
+    "slug": "category-5",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/7"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=7"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 255,
+    "count": 8,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/data/",
+    "name": "Data",
+    "slug": "data",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/255"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=255"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 248,
+    "count": 12,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/devops/",
+    "name": "DevOps",
+    "slug": "devops",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/248"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=248"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "count": 16,
+    "description": "This is an sample category description, which can be used to boost SEO rankings.  Make sure you enabled this from the Edit Category screen in your dashboard.",
+    "link": "https://www.benmorristech.com/category/health/diets/",
+    "name": "Diets",
+    "slug": "diets",
+    "taxonomy": "category",
+    "parent": 2,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/3"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/2"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=3"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 259,
+    "count": 0,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/donate/",
+    "name": "Donate",
+    "slug": "donate",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/259"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=259"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 271,
+    "count": 6,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/ecommerce/",
+    "name": "eCommerce",
+    "slug": "ecommerce",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/271"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=271"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "count": 24,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/energy/",
+    "name": "Energy",
+    "slug": "energy",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/30"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=30"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 93,
+    "count": 4,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/exercise/",
+    "name": "Exercise",
+    "slug": "exercise",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/93"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=93"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "count": 42,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/featured/",
+    "name": "Featured",
+    "slug": "featured",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/8"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=8"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 47,
+    "count": 6,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/energy/fueling/food/",
+    "name": "Food",
+    "slug": "food",
+    "taxonomy": "category",
+    "parent": 31,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/47"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/31"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=47"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "count": 15,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/energy/fueling/",
+    "name": "Fueling",
+    "slug": "fueling",
+    "taxonomy": "category",
+    "parent": 30,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/31"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/30"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=31"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 146,
+    "count": 2,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/gallery/",
+    "name": "Gallery",
+    "slug": "gallery",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/146"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=146"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "count": 9,
+    "description": "This is an sample category description, which can be used to boost SEO rankings.  Make sure you enabled this from the Edit Category screen in your dashboard.",
+    "link": "https://www.benmorristech.com/category/gearreviews/",
+    "name": "Gear Reviews",
+    "slug": "gearreviews",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/5"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=5"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "count": 51,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/health/",
+    "name": "Health",
+    "slug": "health",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/2"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=2"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 213,
+    "count": 1,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/hydration/",
+    "name": "Hydration",
+    "slug": "hydration",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/213"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=213"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 148,
+    "count": 1,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/image/",
+    "name": "Image",
+    "slug": "image",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/148"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=148"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 238,
+    "count": 2,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/learning/",
+    "name": "Learning",
+    "slug": "learning",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/238"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=238"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "count": 5,
+    "description": "This is an sample category description, which can be used to boost SEO rankings.  Make sure you enabled this from the Edit Category screen in your dashboard.",
+    "link": "https://www.benmorristech.com/category/lifehacking/",
+    "name": "LifeHacking",
+    "slug": "lifehacking",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/4"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=4"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 145,
+    "count": 1,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/link/",
+    "name": "Link",
+    "slug": "link",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/145"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=145"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 256,
+    "count": 6,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/performance/",
+    "name": "performance",
+    "slug": "performance",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/256"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=256"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 135,
+    "count": 5,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/photography/",
+    "name": "Photography",
+    "slug": "photography",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/135"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=135"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 94,
+    "count": 15,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/podcasts/",
+    "name": "Podcasts",
+    "slug": "podcasts",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/94"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=94"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 249,
+    "count": 3,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/programming/",
+    "name": "Programming",
+    "slug": "programming",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/249"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=249"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 147,
+    "count": 1,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/quote/",
+    "name": "Quote",
+    "slug": "quote",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/147"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=147"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 58,
+    "count": 11,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/recovery/",
+    "name": "Recovery",
+    "slug": "recovery",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/58"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=58"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 77,
+    "count": 5,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/running/",
+    "name": "Running",
+    "slug": "running",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/77"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=77"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "count": 2,
+    "description": "This is an sample category description, which can be used to boost SEO rankings.  Make sure you enabled this from the Edit Category screen in your dashboard.",
+    "link": "https://www.benmorristech.com/category/exercise/running-exercise/",
+    "name": "Running",
+    "slug": "running-exercise",
+    "taxonomy": "category",
+    "parent": 93,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/10"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/93"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=10"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 226,
+    "count": 4,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/security/",
+    "name": "Security",
+    "slug": "security",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/226"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=226"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "count": 4,
+    "description": "This is an sample category description, which can be used to boost SEO rankings.  Make sure you enabled this from the Edit Category screen in your dashboard.",
+    "link": "https://www.benmorristech.com/category/health/sleep/",
+    "name": "Sleep",
+    "slug": "sleep",
+    "taxonomy": "category",
+    "parent": 2,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/9"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/2"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=9"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 144,
+    "count": 2,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/standard/",
+    "name": "Standard",
+    "slug": "standard",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/144"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=144"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "count": 2,
+    "description": "This is an sample category description, which can be used to boost SEO rankings.  Make sure you enabled this from the Edit Category screen in your dashboard.",
+    "link": "https://www.benmorristech.com/category/health/sleep/supplements/",
+    "name": "Supplements",
+    "slug": "supplements",
+    "taxonomy": "category",
+    "parent": 9,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/12"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/9"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=12"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 92,
+    "count": 26,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/technology/",
+    "name": "Technology",
+    "slug": "technology",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/92"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=92"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "count": 23,
+    "description": "Training",
+    "link": "https://www.benmorristech.com/category/training/",
+    "name": "Training",
+    "slug": "training",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/32"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=32"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1,
+    "count": 56,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/uncategorized/",
+    "name": "Uncategorized",
+    "slug": "uncategorized",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/1"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=1"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 149,
+    "count": 2,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/video/",
+    "name": "Video",
+    "slug": "video",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/149"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=149"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 136,
+    "count": 1,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/video-games/",
+    "name": "Video Games",
+    "slug": "video-games",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/136"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=136"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 101,
+    "count": 4,
+    "description": "",
+    "link": "https://www.benmorristech.com/category/yoga/",
+    "name": "Yoga",
+    "slug": "yoga",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories/101"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.benmorristech.com/wp-json/wp/v2/posts?categories=101"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

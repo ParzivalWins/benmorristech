@@ -1,0 +1,64 @@
+---
+const currentPath = Astro.url.pathname;
+const navItems = [
+  { name: 'WORK', href: '/work', label: '01' },
+  { name: 'WRITING', href: '/blog', label: '02' },
+  { name: 'RECOMMENDATIONS', href: '/recommendations', label: '03' },
+  { name: 'ABOUT', href: '/about', label: '04' },
+];
+---
+
+<header class="border-b border-[#253038] bg-[#0b0f12]/90 backdrop-blur sticky top-0 z-50">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between font-mono">
+    <!-- Brand / Prompt -->
+    <a href="/" class="flex items-center gap-2 group text-[#e0e3e7] hover:text-[#ff8a1f] transition-colors">
+      <span class="text-[#ff8a1f] font-bold">❯</span>
+      <span class="font-bold tracking-tight text-sm sm:text-base">BEN MORRIS</span>
+      <span class="text-xs text-[#8a969f] hidden md:inline">// CX & PRODUCT LEADER</span>
+    </a>
+
+    <!-- Nav Links Desktop -->
+    <nav class="hidden md:flex items-center gap-6 text-xs">
+      {navItems.map((item) => {
+        const isActive = currentPath === item.href || (item.href !== '/' && currentPath.startsWith(item.href));
+        return (
+          <a
+            href={item.href}
+            class={`flex items-center gap-1.5 py-1 px-2 border transition-all ${
+              isActive
+                ? 'border-[#ff8a1f] text-[#ff8a1f] bg-[#ff8a1f]/10'
+                : 'border-transparent text-[#8a969f] hover:text-[#e0e3e7] hover:border-[#36444f]'
+            }`}
+          >
+            <span class="text-[10px] opacity-60">[{item.label}]</span>
+            <span class="font-semibold">{item.name}</span>
+          </a>
+        );
+      })}
+
+      <!-- CTA Schedule -->
+      <a
+        href="https://calendly.com/ben100"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="ml-2 inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold bg-[#ff8a1f] text-[#0b0f12] hover:bg-[#ffb783] transition-colors shadow-sm"
+      >
+        <span>SCHEDULE TIME</span>
+        <span>↗</span>
+      </a>
+    </nav>
+
+    <!-- Edge Status / Mobile indicator -->
+    <div class="flex items-center gap-3">
+      <div class="hidden sm:flex items-center gap-2 px-2.5 py-1 bg-[#12171b] border border-[#253038] text-[11px] text-[#7fe0c8]">
+        <span class="w-2 h-2 rounded-full bg-[#7fe0c8] animate-pulse"></span>
+        <span>EDGE // CLOUDFLARE</span>
+      </div>
+
+      <!-- Mobile Nav Trigger -->
+      <a href="/work" class="md:hidden text-xs px-2.5 py-1 bg-[#ff8a1f] text-[#0b0f12] font-bold">
+        WORK ↗
+      </a>
+    </div>
+  </div>
+</header>

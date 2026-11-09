@@ -1,0 +1,62 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return posts.map((post) => ({
+    params: { slug: post.id },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+---
+
+<BaseLayout
+  title={`${post.data.title} // Field Notes // Ben Morris`}
+  description={post.data.excerpt || post.data.title}
+>
+  <article class="max-w-3xl mx-auto">
+    <!-- Back to blog -->
+    <div class="mb-8 font-mono text-xs">
+      <a href="/blog" class="text-[#8a969f] hover:text-[#ff8a1f] flex items-center gap-1.5 transition-colors">
+        <span>←</span>
+        <span>BACK TO ALL FIELD NOTES</span>
+      </a>
+    </div>
+
+    <!-- Header -->
+    <header class="border-b border-[#253038] pb-6 mb-8">
+      <div class="flex flex-wrap items-center gap-2 text-xs font-mono text-[#8a969f] mb-3">
+        <span class="text-[#ff8a1f] font-bold">{post.data.date}</span>
+        {post.data.categories.map((c) => (
+          <>
+            <span>•</span>
+            <span class="text-[#7fe0c8]">{c}</span>
+          </>
+        ))}
+      </div>
+
+      <h1 class="text-2xl sm:text-3xl md:text-4xl font-bold font-mono text-[#e0e3e7] leading-tight mb-4">
+        {post.data.title}
+      </h1>
+    </header>
+
+    <!-- Content -->
+    <div class="prose prose-invert prose-orange max-w-none text-[#e0e3e7] font-sans text-base leading-relaxed space-y-6 [&>h1]:text-2xl [&>h1]:font-mono [&>h1]:text-[#e0e3e7] [&>h1]:mt-8 [&>h1]:mb-4 [&>h2]:text-xl [&>h2]:font-mono [&>h2]:text-[#e0e3e7] [&>h2]:mt-6 [&>h2]:mb-3 [&>h3]:text-lg [&>h3]:font-mono [&>h3]:text-[#ff8a1f] [&>h3]:mt-4 [&>h3]:mb-2 [&>ul]:list-disc [&>ul]:pl-6 [&>ul]:space-y-1.5 [&>ol]:list-decimal [&>ol]:pl-6 [&>ol]:space-y-1.5 [&>p]:text-[#8a969f] [&>p]:leading-relaxed [&>blockquote]:border-l-2 [&>blockquote]:border-[#ff8a1f] [&>blockquote]:pl-4 [&>blockquote]:italic [&>a]:text-[#ff8a1f] [&>a]:underline">
+      <Content />
+    </div>
+
+    <!-- Footer -->
+    <div class="mt-12 pt-6 border-t border-[#253038] flex justify-between items-center font-mono text-xs text-[#8a969f]">
+      <a href="/blog" class="hover:text-[#ff8a1f]">
+        ← ALL NOTES
+      </a>
+      <a href="https://calendly.com/ben100" target="_blank" rel="noopener noreferrer" class="text-[#ff8a1f] hover:underline font-bold">
+        DISCUSS ON CALENDLY ↗
+      </a>
+    </div>
+  </article>
+</BaseLayout>

@@ -1,0 +1,80 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="About & Executive CV // Ben Morris"
+  description="Executive biography, career background, and leadership philosophy of Ben Morris."
+>
+  <div class="max-w-4xl mx-auto space-y-12">
+    <!-- Header -->
+    <div class="border-b border-[#253038] pb-8">
+      <div class="flex items-center gap-2 text-xs font-mono text-[#8a969f] mb-2">
+        <span class="text-[#ff8a1f]">BMX.SYS</span>
+        <span>//</span>
+        <span class="text-[#e0e3e7]">PERSONNEL DOSSIER</span>
+        <span>•</span>
+        <span class="text-[#7fe0c8]">EXECUTIVE BIO</span>
+      </div>
+      <h1 class="text-3xl sm:text-4xl md:text-5xl font-bold font-mono text-[#e0e3e7] mb-4">
+        Ben Morris
+      </h1>
+      <p class="text-lg text-[#8a969f] font-sans leading-relaxed">
+        Product Leader, Customer Experience Strategist, and Systems Builder based in Los Angeles, California.
+      </p>
+    </div>
+
+    <!-- Quick Telemetry & Links -->
+    <div class="grid grid-cols-1 sm:grid-cols-3 gap-4 font-mono text-xs">
+      <div class="p-4 bg-[#12171b] border border-[#253038] reticle-box">
+        <div class="text-[#8a969f] text-[10px]">CORE SPECIALIZATION</div>
+        <div class="text-[#e0e3e7] font-bold mt-1">Product Leadership &amp; CX Architecture</div>
+      </div>
+      <div class="p-4 bg-[#12171b] border border-[#253038] reticle-box">
+        <div class="text-[#8a969f] text-[10px]">DOMAINS</div>
+        <div class="text-[#7fe0c8] font-bold mt-1">Commerce, Spatial AR, Mobile Ecosystems</div>
+      </div>
+      <div class="p-4 bg-[#12171b] border border-[#253038] reticle-box">
+        <div class="text-[#8a969f] text-[10px]">DIRECT AVAILABILITY</div>
+        <a href="https://calendly.com/ben100" target="_blank" class="text-[#ff8a1f] font-bold mt-1 block hover:underline">
+          Book Intro via Calendly ↗
+        </a>
+      </div>
+    </div>
+
+    <!-- Bio Content -->
+    <div class="space-y-6 text-[#8a969f] font-sans text-base leading-relaxed">
+      <h2 class="text-2xl font-bold font-mono text-[#e0e3e7] border-b border-[#253038] pb-2">
+        Leadership Philosophy
+      </h2>
+      <p>
+        My career is dedicated to <strong class="text-[#e0e3e7]">transforming potential energy into kinetic energy</strong>. Great product teams don't just build features; they dissect complex systems, isolate friction points that alienate users, and engineer intuitive solutions that scale revenue and customer trust.
+      </p>
+      <p>
+        I have led product, UX, and engineering teams across high-growth direct-to-consumer businesses, global retail environments, and emerging spatial computing platforms. My approach fuses rigorous analytical engineering with customer-first empathy.
+      </p>
+
+      <h2 class="text-2xl font-bold font-mono text-[#e0e3e7] border-b border-[#253038] pb-2 pt-6">
+        Core Competencies
+      </h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 font-mono text-xs">
+        <div class="p-4 bg-[#12171b] border border-[#253038]">
+          <div class="text-[#ff8a1f] font-bold mb-2">PRODUCT STRATEGY &amp; ROADMAPPING</div>
+          <p class="text-[#8a969f] font-sans text-xs">Cross-functional team leadership, OKRs, customer research, conversion rate optimization, agile sprints, and data-driven prioritization.</p>
+        </div>
+        <div class="p-4 bg-[#12171b] border border-[#253038]">
+          <div class="text-[#7fe0c8] font-bold mb-2">COMMERCE &amp; DTC ARCHITECTURE</div>
+          <p class="text-[#8a969f] font-sans text-xs">Headless commerce, Shopify Plus, subscription engines, ERP/WMS fulfillment integration, and international payment gateways.</p>
+        </div>
+        <div class="p-4 bg-[#12171b] border border-[#253038]">
+          <div class="text-[#ffd400] font-bold mb-2">SPATIAL COMPUTING &amp; MOBILE</div>
+          <p class="text-[#8a969f] font-sans text-xs">Augmented reality indoor mapping, BLE beacon networks, camera-first interactions, iOS/Android apps, and gamification loops.</p>
+        </div>
+        <div class="p-4 bg-[#12171b] border border-[#253038]">
+          <div class="text-[#e0e3e7] font-bold mb-2">DEV &amp; SYSTEMS ARCHITECTURE</div>
+          <p class="text-[#8a969f] font-sans text-xs">Cloudflare Edge, AWS CloudFormation, Docker, CI/CD pipelines, modern frontend frameworks (Astro, React, TypeScript), and static edge reliability.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

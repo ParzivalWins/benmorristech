@@ -1,0 +1,126 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const allWork = await getCollection('work');
+const sortedWork = allWork.sort((a, b) => a.data.order - b.data.order);
+---
+
+<BaseLayout
+  title="Portfolio & Mission Log // Ben Morris"
+  description="Verified case studies and digital product missions across Enterprise Commerce, Spatial Computing / AR, and Mobile Apps."
+>
+  <div class="mb-12 border-b border-[#253038] pb-8">
+    <div class="flex items-center gap-2 text-xs font-mono text-[#8a969f] mb-2">
+      <span class="text-[#ff8a1f]">BMX.SYS</span>
+      <span>//</span>
+      <span class="text-[#e0e3e7]">MISSION LOG</span>
+      <span>•</span>
+      <span class="text-[#7fe0c8]">VERIFIED CASE STUDIES</span>
+    </div>
+    <h1 class="text-3xl sm:text-4xl md:text-5xl font-bold font-mono text-[#e0e3e7] mb-4">
+      Product Leadership &amp; Engineering Missions
+    </h1>
+    <p class="text-base text-[#8a969f] max-w-3xl leading-relaxed">
+      A curated record of production commerce systems, spatial computing pilots, and high-impact digital experiences delivered for Fortune 500 enterprises and venture-backed category leaders.
+    </p>
+
+    <!-- Behance notice -->
+    <div class="mt-6 p-4 bg-[#12171b] border border-[#253038] flex flex-col sm:flex-row sm:items-center justify-between gap-4 font-mono text-xs">
+      <div>
+        <span class="text-[#ff8a1f] font-bold">LOOKING FOR CREATIVE DECKS &amp; WIREFRAMES?</span>
+        <div class="text-[#8a969f] mt-0.5">Explore full visual boards, mockups, and interaction sketches on Behance.</div>
+      </div>
+      <a
+        href="https://www.behance.net/benmorris"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="px-4 py-2 bg-[#ff8a1f] text-[#0b0f12] font-bold hover:bg-[#ffb783] transition-colors whitespace-nowrap self-start sm:self-center"
+      >
+        BEHANCE.NET/BENMORRIS ↗
+      </a>
+    </div>
+  </div>
+
+  <!-- Mission Cards List -->
+  <div class="space-y-8">
+    {sortedWork.map((project, idx) => (
+      <article class="p-6 sm:p-8 bg-[#12171b] border border-[#253038] hover:border-[#ff8a1f] transition-all reticle-box">
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
+          <!-- Left details (8 cols) -->
+          <div class="lg:col-span-8 space-y-4">
+            <div class="flex flex-wrap items-center gap-3 text-xs font-mono">
+              <span class="px-2 py-0.5 bg-[#ff8a1f]/10 text-[#ff8a1f] border border-[#ff8a1f]/30 font-bold">
+                MISSION #{String(idx + 1).padStart(2, '0')}
+              </span>
+              <span class="text-[#e0e3e7] font-bold">{project.data.client}</span>
+              <span class="text-[#8a969f]">•</span>
+              <span class="text-[#8a969f]">{project.data.year}</span>
+            </div>
+
+            <h2 class="text-xl sm:text-2xl font-bold font-mono text-[#e0e3e7] hover:text-[#ff8a1f] transition-colors">
+              <a href={`/work/${project.id}`}>
+                {project.data.title}
+              </a>
+            </h2>
+
+            <p class="text-sm sm:text-base text-[#8a969f] font-sans leading-relaxed">
+              {project.data.tagline}
+            </p>
+
+            <div class="flex flex-wrap gap-2 pt-2">
+              {project.data.tags.map(tag => (
+                <span class="text-[11px] font-mono px-2.5 py-1 bg-[#1a2228] text-[#8a969f] border border-[#253038]">
+                  {tag}
+                </span>
+              ))}
+            </div>
+
+            <div class="pt-4 flex flex-wrap items-center gap-4 text-xs font-mono">
+              <a
+                href={`/work/${project.id}`}
+                class="px-4 py-2 bg-[#ff8a1f] text-[#0b0f12] font-bold hover:bg-[#ffb783] transition-colors flex items-center gap-1.5"
+              >
+                <span>READ DEEP DIVE</span>
+                <span>→</span>
+              </a>
+              {project.data.behanceUrl && (
+                <a
+                  href={project.data.behanceUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="px-4 py-2 bg-[#1a2228] border border-[#253038] text-[#e0e3e7] hover:border-[#ff8a1f] hover:text-[#ff8a1f] transition-all flex items-center gap-1.5"
+                >
+                  <span>BEHANCE GALLERY</span>
+                  <span>↗</span>
+                </a>
+              )}
+            </div>
+          </div>
+
+          <!-- Right telemetry / metrics (4 cols) -->
+          <div class="lg:col-span-4 bg-[#0b0f12] p-5 border border-[#253038] space-y-4 font-mono text-xs">
+            <div class="text-[10px] text-[#ff8a1f] font-bold tracking-wider uppercase border-b border-[#253038] pb-2">
+              ROLE &amp; IMPACT METRICS
+            </div>
+            <div>
+              <div class="text-[10px] text-[#8a969f]">EXECUTIVE CAPACITY</div>
+              <div class="text-[#e0e3e7] font-semibold mt-0.5">{project.data.role}</div>
+            </div>
+
+            {project.data.metrics && project.data.metrics.length > 0 && (
+              <div class="space-y-3 pt-2 border-t border-[#253038]">
+                {project.data.metrics.map(metric => (
+                  <div class="flex items-center justify-between">
+                    <span class="text-[11px] text-[#8a969f]">{metric.label}</span>
+                    <span class="text-sm font-bold text-[#7fe0c8]">{metric.value}</span>
+                  </div>
+                ))}
+              </div>
+            )}
+          </div>
+        </div>
+      </article>
+    ))}
+  </div>
+</BaseLayout>

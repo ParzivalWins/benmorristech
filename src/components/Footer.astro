@@ -1,0 +1,103 @@
+---
+const currentYear = new Date().getFullYear();
+---
+
+<footer class="border-t border-[#253038] bg-[#0b0f12] text-[#8a969f] font-mono text-xs py-12 mt-20">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6">
+    <div class="grid grid-cols-1 md:grid-cols-4 gap-8 mb-12">
+      <!-- Col 1: System Info -->
+      <div class="space-y-3">
+        <div class="flex items-center gap-2 text-[#e0e3e7] font-semibold text-sm">
+          <span class="text-[#ff8a1f]">BMX.SYS</span>
+          <span>// SPEC 2.0</span>
+        </div>
+        <p class="text-[12px] leading-relaxed text-[#8a969f]">
+          Senior Product Leader, CX Strategist, and Systems Builder. Turning complex customer friction into elegant commerce and immersive applications.
+        </p>
+        <div class="text-[11px] text-[#7fe0c8] flex items-center gap-1.5">
+          <span class="w-1.5 h-1.5 rounded-full bg-[#7fe0c8]"></span>
+          <span>ZERO-MAINTENANCE STATIC EDGE</span>
+        </div>
+      </div>
+
+      <!-- Col 2: Navigation -->
+      <div class="space-y-2">
+        <div class="text-[#e0e3e7] font-bold text-xs uppercase tracking-wider mb-2">INDEX</div>
+        <ul class="space-y-1.5">
+          <li><a href="/work" class="hover:text-[#ff8a1f] transition-colors">/work (Case Studies)</a></li>
+          <li><a href="/blog" class="hover:text-[#ff8a1f] transition-colors">/blog (Field Notes)</a></li>
+          <li><a href="/recommendations" class="hover:text-[#ff8a1f] transition-colors">/recommendations</a></li>
+          <li><a href="/about" class="hover:text-[#ff8a1f] transition-colors">/about (CV & Bio)</a></li>
+        </ul>
+      </div>
+
+      <!-- Col 3: Presence -->
+      <div class="space-y-2">
+        <div class="text-[#e0e3e7] font-bold text-xs uppercase tracking-wider mb-2">PRESENCE</div>
+        <ul class="space-y-1.5">
+          <li>
+            <a href="https://www.behance.net/benmorris" target="_blank" rel="noopener noreferrer" class="hover:text-[#ff8a1f] transition-colors flex items-center gap-1">
+              <span>Behance Portfolio</span>
+              <span class="text-[10px]">↗</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.linkedin.com/in/benmorristech" target="_blank" rel="noopener noreferrer" class="hover:text-[#ff8a1f] transition-colors flex items-center gap-1">
+              <span>LinkedIn</span>
+              <span class="text-[10px]">↗</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/ParzivalWins" target="_blank" rel="noopener noreferrer" class="hover:text-[#ff8a1f] transition-colors flex items-center gap-1">
+              <span>GitHub</span>
+              <span class="text-[10px]">↗</span>
+            </a>
+          </li>
+          <li>
+            <a href="https://calendly.com/ben100" target="_blank" rel="noopener noreferrer" class="hover:text-[#ff8a1f] transition-colors flex items-center gap-1">
+              <span>Calendly (Schedule)</span>
+              <span class="text-[10px]">↗</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+
+      <!-- Col 4: Telemetry -->
+      <div class="p-3 bg-[#12171b] border border-[#253038] space-y-2 reticle-box">
+        <div class="text-[10px] text-[#ff8a1f] font-bold uppercase tracking-wider">DEPLOY TELEMETRY</div>
+        <div class="text-[11px] space-y-1">
+          <div class="flex justify-between">
+            <span class="text-[#8a969f]">HOSTING:</span>
+            <span class="text-[#e0e3e7]">Cloudflare Pages</span>
+          </div>
+          <div class="flex justify-between">
+            <span class="text-[#8a969f]">FRAMEWORK:</span>
+            <span class="text-[#e0e3e7]">Astro 5 + Vite</span>
+          </div>
+          <div class="flex justify-between">
+            <span class="text-[#8a969f]">CSS ENGINE:</span>
+            <span class="text-[#e0e3e7]">Tailwind v4</span>
+          </div>
+          <div class="flex justify-between">
+            <span class="text-[#8a969f]">PAGESPEED:</span>
+            <span class="text-[#7fe0c8]">100 / 100</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Bottom Bar -->
+    <div class="pt-8 border-t border-[#253038] flex flex-col sm:flex-row justify-between items-center gap-4 text-[11px]">
+      <div>
+        © {currentYear} Ben Morris. All rights reserved.
+      </div>
+      <div class="flex items-center gap-4">
+        <a href="/rss.xml" class="hover:text-[#ff8a1f]">RSS FEED</a>
+        <span>•</span>
+        <a href="/sitemap-index.xml" class="hover:text-[#ff8a1f]">SITEMAP</a>
+        <span>•</span>
+        <a href="https://feedthemachine.com" target="_blank" rel="noopener noreferrer" class="hover:text-[#ff8a1f]">FEED THE MACHINE ↗</a>
+      </div>
+    </div>
+  </div>
+</footer>

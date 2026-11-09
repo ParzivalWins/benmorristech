@@ -1,0 +1,21 @@
+---
+title: "Paleo ?"
+date: "2013-02-11"
+excerpt: "http://www.cnn.com/2011/HEALTH/03/29/grass.grain.beef.cookinglight/index.html Embarking on an noble attempt at a Paleo diet. Going to try to start eating meats that are 'Grass' fed. 'All cows do gr"
+categories: ["Health"]
+tags: ["Diet", "Health", "Paleo"]
+featured: false
+---
+
+
+# Paleo ?
+
+[![Grass or Grain ?](http://54.214.102.151/wp-content/uploads/2013/02/cow1.jpeg)](http://54.214.102.151/wp-content/uploads/2013/02/cow1.jpeg)Grass or Grain ?
+
+ http://www.cnn.com/2011/HEALTH/03/29/grass.grain.beef.cookinglight/index.html 
+Embarking on an noble attempt at a Paleo diet. 
+
+Going to try to start eating meats that are "Grass" fed.
+
+"All cows do graze on pasture for the first six months to a year of their lives, but most finish at a feedlot on a concentrated mix of corn, soy, grains, and other supplements, plus hormones and antibiotics."
+

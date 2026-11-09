@@ -1,0 +1,66 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const allPosts = await getCollection('blog');
+const sortedPosts = allPosts.sort(
+  (a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
+);
+---
+
+<BaseLayout
+  title="Field Notes & Writing // Ben Morris"
+  description="Technical insights, commerce architecture, emerging technology analysis, and book reviews by Ben Morris."
+>
+  <div class="mb-12 border-b border-[#253038] pb-8">
+    <div class="flex items-center gap-2 text-xs font-mono text-[#8a969f] mb-2">
+      <span class="text-[#ff8a1f]">BMX.SYS</span>
+      <span>//</span>
+      <span class="text-[#e0e3e7]">FIELD NOTES</span>
+      <span>•</span>
+      <span class="text-[#7fe0c8]">{sortedPosts.length} ARCHIVED NOTES</span>
+    </div>
+    <h1 class="text-3xl sm:text-4xl md:text-5xl font-bold font-mono text-[#e0e3e7] mb-4">
+      Writing, Research &amp; Field Notes
+    </h1>
+    <p class="text-base text-[#8a969f] max-w-3xl leading-relaxed">
+      A collection of insights on customer experience architecture, wearable health data, distributed systems, cryptocurrency, and book evaluations.
+    </p>
+  </div>
+
+  <!-- Articles List -->
+  <div class="divide-y divide-[#253038] border-y border-[#253038] bg-[#12171b]">
+    {sortedPosts.map((post) => (
+      <article class="p-6 hover:bg-[#1a2228]/50 transition-colors flex flex-col md:flex-row md:items-baseline justify-between gap-4">
+        <div class="space-y-2 flex-1">
+          <div class="flex flex-wrap items-center gap-2 text-xs font-mono text-[#8a969f]">
+            <span class="text-[#ff8a1f]">{post.data.date}</span>
+            {post.data.categories.length > 0 && (
+              <>
+                <span>•</span>
+                <span class="text-[#7fe0c8]">{post.data.categories[0]}</span>
+              </>
+            )}
+          </div>
+          <h2 class="text-lg sm:text-xl font-bold font-mono text-[#e0e3e7] hover:text-[#ff8a1f] transition-colors">
+            <a href={`/blog/${post.id}`}>
+              {post.data.title}
+            </a>
+          </h2>
+          {post.data.excerpt && (
+            <p class="text-sm text-[#8a969f] font-sans line-clamp-2 max-w-3xl">
+              {post.data.excerpt}
+            </p>
+          )}
+        </div>
+        <a
+          href={`/blog/${post.id}`}
+          class="text-xs font-mono text-[#ff8a1f] hover:text-[#ffb783] whitespace-nowrap self-start md:self-center font-semibold flex items-center gap-1"
+        >
+          <span>READ NOTE</span>
+          <span>→</span>
+        </a>
+      </article>
+    ))}
+  </div>
+</BaseLayout>
